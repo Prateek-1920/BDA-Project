@@ -1,0 +1,205 @@
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.validation in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.database.slave in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.classManagerJ2 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.netServer.autoStart in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.nativeAuthentication in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.access.btree in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.access.uniquewithduplicatenullssort in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.daemon in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.env.classes.jdbcJ8 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.lf in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.uuidJ1 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.timerJ1 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.rawStore.transaction in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.env.jdk.cryptographyJ2 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.cryptographyJ2 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.env.jdk.resourceAdapterJ2 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.access.sort in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.env.classes.JNDIAuthentication in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.basicAuthentication in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.tcf in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.database in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.ef in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.streams in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.lcf in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.rawStore.log.readonly in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.env.jdk.lockManagerJ6 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.dataDictionary in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.env.classes.resourceAdapterJ2 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.env.classes.rawStore.data.genericJ4 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.XPLAINFactory in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.resourceAdapterJ2 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.rawStore.log in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.env.classes.cryptographyJ2 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.resultSetStatisticsFactory in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.access.heap in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.dvfJ2 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.optimizer in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.jdbcJ8 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.lockManagerJ6 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.env.jdk.cacheManagerJ6 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.mgmt.jmx in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.replication.master in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.NoneAuthentication in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.rawStore.data.genericJ4 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.env.jdk.jdbcJ8 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.cacheManagerJ6 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.rawStore.data.genericJ1 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.env.jdk.dvfJ2 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.env.classes.dvfJ2 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.javaCompiler in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.replication.slave in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.specificAuthentication in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.mgmt.null in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.rawStore in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.JNDIAuthentication in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.env.jdk.rawStore.data.genericJ1 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.module.access in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.env.jdk.mgmt.jmx in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main] Ignored duplicate property derby.env.jdk.rawStore.data.genericJ4 in jar:file:/usr/local/hive/lib/hive-druid-handler-4.0.1.jar!/org/apache/derby/modules.properties
+Sun Oct 20 14:55:36 IST 2024 Thread[main,5,main]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+----------------------------------------------------------------
+Sun Oct 20 14:55:37 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0192-a93f-1610-0000059cea18 
+on database directory /home/prateek/bdaproj/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27 
+Loaded from file:/usr/local/hive/lib/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.24+8-post-Ubuntu-1ubuntu324.04.1
+user.dir=/home/prateek/bdaproj
+os.name=Linux
+os.arch=amd64
+os.version=6.8.0-45-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+Sun Oct 20 14:55:37 IST 2024 Thread[main,5,main] (XID = 281), (SESSIONID = 3), (DATABASE = metastore_db), (DRDAID = null), Cleanup action starting
+Sun Oct 20 14:55:37 IST 2024 Thread[main,5,main] (XID = 281), (SESSIONID = 3), (DATABASE = metastore_db), (DRDAID = null), Failed Statement is: CREATE FUNCTION "APP"."NUCLEUS_ASCII" (C CHAR(1)) RETURNS INTEGER LANGUAGE JAVA PARAMETER STYLE JAVA READS SQL DATA CALLED ON NULL INPUT EXTERNAL NAME 'org.datanucleus.store.rdbms.adapter.DerbySQLFunction.ascii'
+ERROR X0Y68: FUNCTION 'NUCLEUS_ASCII' already exists.
+	at org.apache.derby.iapi.error.StandardException.newException(StandardException.java:290)
+	at org.apache.derby.iapi.error.StandardException.newException(StandardException.java:285)
+	at org.apache.derby.impl.sql.execute.CreateAliasConstantAction.vetRoutine(CreateAliasConstantAction.java:385)
+	at org.apache.derby.impl.sql.execute.CreateAliasConstantAction.executeConstantAction(CreateAliasConstantAction.java:279)
+	at org.apache.derby.impl.sql.execute.MiscResultSet.open(MiscResultSet.java:61)
+	at org.apache.derby.impl.sql.GenericPreparedStatement.executeStmt(GenericPreparedStatement.java:472)
+	at org.apache.derby.impl.sql.GenericPreparedStatement.execute(GenericPreparedStatement.java:351)
+	at org.apache.derby.impl.jdbc.EmbedStatement.executeStatement(EmbedStatement.java:1344)
+	at org.apache.derby.impl.jdbc.EmbedStatement.execute(EmbedStatement.java:710)
+	at org.apache.derby.impl.jdbc.EmbedStatement.execute(EmbedStatement.java:637)
+	at org.apache.hive.beeline.Commands.executeInternal(Commands.java:992)
+	at org.apache.hive.beeline.Commands.execute(Commands.java:1216)
+	at org.apache.hive.beeline.Commands.sql(Commands.java:1145)
+	at org.apache.hive.beeline.BeeLine.dispatch(BeeLine.java:1519)
+	at org.apache.hive.beeline.BeeLine.execute(BeeLine.java:1379)
+	at org.apache.hive.beeline.BeeLine.executeFile(BeeLine.java:1353)
+	at org.apache.hive.beeline.BeeLine.begin(BeeLine.java:1142)
+	at org.apache.hive.beeline.schematool.HiveSchemaTool.execSql(HiveSchemaTool.java:108)
+	at org.apache.hive.beeline.schematool.HiveSchemaTool.execSql(HiveSchemaTool.java:88)
+	at org.apache.hadoop.hive.metastore.tools.schematool.SchemaToolTaskInit.execute(SchemaToolTaskInit.java:62)
+	at org.apache.hadoop.hive.metastore.tools.schematool.MetastoreSchemaTool.run(MetastoreSchemaTool.java:484)
+	at org.apache.hive.beeline.schematool.HiveSchemaTool.main(HiveSchemaTool.java:143)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.hadoop.util.RunJar.run(RunJar.java:330)
+	at org.apache.hadoop.util.RunJar.main(RunJar.java:245)
+Cleanup action completed
+Sun Oct 20 14:55:37 IST 2024 Thread[main,5,main] 
+ERROR 25001: Cannot close a connection while a transaction is still active.
+java.sql.SQLException: Cannot close a connection while a transaction is still active.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(SQLExceptionFactory.java:115)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(SQLExceptionFactory.java:141)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Util.java:225)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Util.java:220)
+	at org.apache.derby.impl.jdbc.EmbedConnection.newSQLException(EmbedConnection.java:3215)
+	at org.apache.derby.impl.jdbc.EmbedConnection.checkForTransactionInProgress(EmbedConnection.java:2009)
+	at org.apache.derby.impl.jdbc.EmbedConnection.close(EmbedConnection.java:1990)
+	at org.apache.hive.beeline.Commands.close(Commands.java:1470)
+	at org.apache.hive.beeline.Commands.closeall(Commands.java:1449)
+	at org.apache.hive.beeline.BeeLine.close(BeeLine.java:1398)
+	at org.apache.hive.beeline.schematool.HiveSchemaTool.execSql(HiveSchemaTool.java:112)
+	at org.apache.hive.beeline.schematool.HiveSchemaTool.execSql(HiveSchemaTool.java:88)
+	at org.apache.hadoop.hive.metastore.tools.schematool.SchemaToolTaskInit.execute(SchemaToolTaskInit.java:62)
+	at org.apache.hadoop.hive.metastore.tools.schematool.MetastoreSchemaTool.run(MetastoreSchemaTool.java:484)
+	at org.apache.hive.beeline.schematool.HiveSchemaTool.main(HiveSchemaTool.java:143)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.hadoop.util.RunJar.run(RunJar.java:330)
+	at org.apache.hadoop.util.RunJar.main(RunJar.java:245)
+Caused by: ERROR 25001: Cannot close a connection while a transaction is still active.
+	at org.apache.derby.iapi.error.StandardException.newException(StandardException.java:290)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(SQLExceptionFactory.java:170)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(SQLExceptionFactory.java:75)
+	... 20 more
+============= begin nested exception, level (1) ===========
+ERROR 25001: Cannot close a connection while a transaction is still active.
+	at org.apache.derby.iapi.error.StandardException.newException(StandardException.java:290)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(SQLExceptionFactory.java:170)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(SQLExceptionFactory.java:75)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(SQLExceptionFactory.java:141)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Util.java:225)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Util.java:220)
+	at org.apache.derby.impl.jdbc.EmbedConnection.newSQLException(EmbedConnection.java:3215)
+	at org.apache.derby.impl.jdbc.EmbedConnection.checkForTransactionInProgress(EmbedConnection.java:2009)
+	at org.apache.derby.impl.jdbc.EmbedConnection.close(EmbedConnection.java:1990)
+	at org.apache.hive.beeline.Commands.close(Commands.java:1470)
+	at org.apache.hive.beeline.Commands.closeall(Commands.java:1449)
+	at org.apache.hive.beeline.BeeLine.close(BeeLine.java:1398)
+	at org.apache.hive.beeline.schematool.HiveSchemaTool.execSql(HiveSchemaTool.java:112)
+	at org.apache.hive.beeline.schematool.HiveSchemaTool.execSql(HiveSchemaTool.java:88)
+	at org.apache.hadoop.hive.metastore.tools.schematool.SchemaToolTaskInit.execute(SchemaToolTaskInit.java:62)
+	at org.apache.hadoop.hive.metastore.tools.schematool.MetastoreSchemaTool.run(MetastoreSchemaTool.java:484)
+	at org.apache.hive.beeline.schematool.HiveSchemaTool.main(HiveSchemaTool.java:143)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.hadoop.util.RunJar.run(RunJar.java:330)
+	at org.apache.hadoop.util.RunJar.main(RunJar.java:245)
+============= end nested exception, level (1) ===========
+Sun Oct 20 14:55:37 IST 2024 Thread[shutdown-hook-0,5,main] 
+ERROR 25001: Cannot close a connection while a transaction is still active.
+java.sql.SQLException: Cannot close a connection while a transaction is still active.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(SQLExceptionFactory.java:115)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(SQLExceptionFactory.java:141)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Util.java:225)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Util.java:220)
+	at org.apache.derby.impl.jdbc.EmbedConnection.newSQLException(EmbedConnection.java:3215)
+	at org.apache.derby.impl.jdbc.EmbedConnection.checkForTransactionInProgress(EmbedConnection.java:2009)
+	at org.apache.derby.impl.jdbc.EmbedConnection.close(EmbedConnection.java:1990)
+	at org.apache.hive.beeline.Commands.close(Commands.java:1470)
+	at org.apache.hive.beeline.Commands.closeall(Commands.java:1449)
+	at org.apache.hive.beeline.BeeLine.close(BeeLine.java:1398)
+	at org.apache.hive.beeline.BeeLine$1.run(BeeLine.java:583)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: ERROR 25001: Cannot close a connection while a transaction is still active.
+	at org.apache.derby.iapi.error.StandardException.newException(StandardException.java:290)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(SQLExceptionFactory.java:170)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(SQLExceptionFactory.java:75)
+	... 15 more
+============= begin nested exception, level (1) ===========
+ERROR 25001: Cannot close a connection while a transaction is still active.
+	at org.apache.derby.iapi.error.StandardException.newException(StandardException.java:290)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(SQLExceptionFactory.java:170)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(SQLExceptionFactory.java:75)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(SQLExceptionFactory.java:141)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Util.java:225)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Util.java:220)
+	at org.apache.derby.impl.jdbc.EmbedConnection.newSQLException(EmbedConnection.java:3215)
+	at org.apache.derby.impl.jdbc.EmbedConnection.checkForTransactionInProgress(EmbedConnection.java:2009)
+	at org.apache.derby.impl.jdbc.EmbedConnection.close(EmbedConnection.java:1990)
+	at org.apache.hive.beeline.Commands.close(Commands.java:1470)
+	at org.apache.hive.beeline.Commands.closeall(Commands.java:1449)
+	at org.apache.hive.beeline.BeeLine.close(BeeLine.java:1398)
+	at org.apache.hive.beeline.BeeLine$1.run(BeeLine.java:583)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+============= end nested exception, level (1) ===========
