@@ -1,6 +1,0 @@
-
-# Create a new virtual environment
-python3 -m venv newenv
-
-# Activate the new environment
-source newenv/bin/activate
