@@ -14,7 +14,7 @@ producer = KafkaProducer(
 )
 
 # TCP server configuration
-tcp_host = '192.168.171.181'  # Listen on all available interfaces
+tcp_host = '192.168.171.181'  # Connect laptop to phone hotspot, go to laptop wifi setting, put that IP
 tcp_port = 12345       # Change to the port your app sends data to
 
 def start_tcp_server():
@@ -67,10 +67,9 @@ def process_data(data_str):
     data_str = data_str.strip()  # Remove any surrounding whitespace
     print(f"Received: {data_str}")
 
-    # Assuming the IMU data is comma-separated (e.g., "9.8,1.2,3.4,0.1,0.2,0.3,1616161616")
     imu_values = data_str.split(',')
 
-    if len(imu_values) == 9:  # Expecting 9 values: accel_x, accel_y, accel_z, gyro_x, gyro_y, gyro_z, orientation_x, orientation_y, orientation_z
+    if len(imu_values) == 9:  
         try:
             imu_data = {
                 'accel_x': float(imu_values[0]),

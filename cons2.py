@@ -47,7 +47,7 @@ console_query = imu_data_df.writeStream \
     .start()
 
 # Define the output path for the CSV file
-csv_path = "data/imu_data"  # Change the path as needed
+csv_path = "data/imu_data"  
 checkpoint_path = "data/checkpoints/imu_data"  # Checkpointing for fault tolerance
 
 # Write to a single CSV file
